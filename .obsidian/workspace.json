@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "d1543e2583142a7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8d9c371d65b80d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f535097c598a52c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "276e019acf75e314",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b1ce90bf58eec91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf881d1fd8c98914",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "163960b68f0894b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05f48baccf038cbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3152866a20cbd097",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad41696c1189909d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca3ba7e3eae100c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "191dca214ec88f42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "994d9a3e82cf4029",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58e6d66b1b1451d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f535097c598a52c0",
+  "lastOpenFiles": [
+    "_site/assets/images/brett.jpg",
+    "_site/assets/images",
+    "assets/images/brett.jpg",
+    "assets/images",
+    "_posts/2023-11-29-first-post.md",
+    "_site/first-post/index.html",
+    "_site/first-post",
+    "_posts/2023-11-29-1.md",
+    "_site/assets/js/lunr/lunr.min.js",
+    "_site/assets/js/lunr/lunr.js",
+    "_site/assets/js/lunr/lunr-store.js",
+    "_site/assets/js/lunr/lunr-gr.js",
+    "_site/assets/js/lunr/lunr-en.js",
+    "_site/assets/js/main.min.js",
+    "_site/images/uny_logo3.png",
+    "_site/screenshot.png",
+    "_site/screenshot-layouts.png",
+    "images/uny_logo3.png",
+    "uny_logo3.png",
+    "README.md",
+    "screenshot-layouts.png",
+    "screenshot.png"
+  ]
+}
